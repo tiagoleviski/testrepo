@@ -1,2 +1,2 @@
 ### Remembering the git course
-print("Inside Child Branch again.")
+print("Inside Child Branch again. Time to remember")
